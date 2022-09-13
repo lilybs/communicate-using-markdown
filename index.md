@@ -7,3 +7,7 @@
 `r = float(input())`
 `c = 3.14*r*r`
 `print("\nCircumference = ", c)`
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
